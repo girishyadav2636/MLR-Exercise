@@ -1,4 +1,4 @@
-# MLR-Exercise
+# Multi Linear Regression Model
 
 1) Prepare a prediction model for profit of 50_startups data.
 Do transformations for getting better predictions of profit and
